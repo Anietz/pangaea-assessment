@@ -1,3 +1,5 @@
+This project was built with React, Redux and GraphQL Apollo client
+
 Live Demo - [https://pangaea-ani.netlify.app](https://pangaea-ani.netlify.app)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
